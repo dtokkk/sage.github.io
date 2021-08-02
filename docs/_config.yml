@@ -29,7 +29,7 @@ url: "https://dtokkk.github.io/sage.github.io" # the base hostname & protocol fo
 twitter_username: jekyllrb
 github_username:  jekyll
 show_downloads: true
-google_analytics: G-154NMSFCVR
+google_analytics: UA-203714728-1 
 
 # Build settings
 #theme: jekyll-theme-minimal
