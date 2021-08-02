@@ -33,7 +33,7 @@ google_analytics: G-154NMSFCVR
 
 # Build settings
 #theme: jekyll-theme-minimal
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
