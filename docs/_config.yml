@@ -28,9 +28,12 @@ baseurl: "/sage.github.io" # the subpath of your site, e.g. /blog
 url: "https://dtokkk.github.io/sage.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+show_downloads: true
+google_analytics: G-154NMSFCVR
 
 # Build settings
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minimal
 plugins:
   - jekyll-feed
 
